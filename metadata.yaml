@@ -1,0 +1,33 @@
+_repo: Ulysses-S.-Grant_28386
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allen, Walter
+    birthdate: 1840
+    deathdate: 1907
+    gutenberg_agent_id: '33329'
+    url: http://www.gutenberg.org/2009/agents/33329
+description: This excellent biography by Walter Allen charts the war-hero turned president
+  Ulysses S. Grant's life. From his youngest years through to his term as one of the
+  most fondly remembered presidents of the United States of America, Grant's life
+  is a fascnating one. This excellent eBook edition of this highly-rated title has
+  been specially formatted for today's e-readers by Andrews UK ...
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2009-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28386'
+  lccn: 01031811
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Riverside Biographical Series, number 7
+subjects:
+- !lcsh 'Grant, Ulysses S. (Ulysses Simpson), 1822-1885'
+- !lcc 'E660'
+title: Ulysses S. Grant
+url: http://www.gutenberg.org/ebooks/28386
